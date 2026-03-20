@@ -1,2 +1,3 @@
-# hyper-marketplace-vwo8
+# Hyper Marketplace Vwo8
+
 A repository to test GitHub automation for issue management.
